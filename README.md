@@ -1,6 +1,3 @@
-Certainly! Below is the README for your project formatted in Markdown, which you can directly use in your project's repository:
-
-````markdown
 # PDF Number Analyzer Project
 
 ## Description
@@ -20,6 +17,7 @@ Clone this repository to your local machine or download the ZIP file and extract
 git clone https://github.com/alecjcn/conductor.git
 cd your-project-directory
 ```
+
 ````
 
 ## Setting Up a Virtual Environment
@@ -65,3 +63,4 @@ jupyter notebook
 - **notebook.ipynb**: The main Jupyter Notebook containing all the analysis code.
 - **pdfs/**: Directory containing the PDF files to be analyzed.
 - **requirements.txt**: Lists all Python libraries that the project depends on.
+````
