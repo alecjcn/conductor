@@ -18,8 +18,6 @@ git clone https://github.com/alecjcn/conductor.git
 cd your-project-directory
 ```
 
-````
-
 ## Setting Up a Virtual Environment
 
 Create a virtual environment to manage dependencies separately from your global Python setup:
@@ -63,4 +61,3 @@ jupyter notebook
 - **notebook.ipynb**: The main Jupyter Notebook containing all the analysis code.
 - **pdfs/**: Directory containing the PDF files to be analyzed.
 - **requirements.txt**: Lists all Python libraries that the project depends on.
-````
